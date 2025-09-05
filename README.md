@@ -23,16 +23,35 @@ A renowned hotel group wants to create an annual booking and cancellation report
 
 ![Screenshot (495)](https://github.com/PritamSaha234/Hotel-Booking-Cancellation-Dashboard/blob/main/Dashboard_2023.png)
 
-## Project Insight
-- According to all data, the Customer who are couples has the highest cancellation rate (~ 40%).
-- According to all data, the Single Customer has the lowest cancellation rate (~ 29%).
-- Undesired room doesn't affect much on booking cancellations.
-- 2023 has the highest booking rate (~ 47%).
-- 2024 has the highest cancellation rate (~ 39%).
-- According to all data, November to March has the lowest cancellation rate.
-- According to all data, April to June has the highest cancellation rate.
-- According to all data, City Hotels has the highest cancellations(~ 42%) compared to Resort Hotels(~ 28%).
-  
+## Project Insights
 
-## Final Conclusion:
-To improve the room booking, the focus should be on couples and families. There should be a good strategy to decrease the churning of the Couple and Family customers. From the month of April to June booking cancellation rate is high, there should be a marketing strategy and discount policy. The booking cancellation rate of City Hotel is much higher we should focus on service quality and pricing strategy. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+# Customer Segments & Cancellations
+- Couples have the highest cancellation rate (~40%).
+- Single customers show the lowest cancellation rate (~29%).
+- Undesired room type has minimal impact on cancellations.
+
+# Yearly Trends
+- 2023 recorded the highest booking rate (~47%).
+- 2024 shows the highest cancellation rate (~39%).
+
+# Seasonal Patterns
+- Lowest cancellations: November – March.
+- Highest cancellations: April – June.
+
+# Hotel Type Comparison
+- City Hotels: ~42% cancellation rate.
+- Resort Hotels: ~28% cancellation rate.
+
+## Final Conclusion & Recommendations
+
+# Focus on Couples & Families:
+- These groups have higher churn; strategies should target retention with loyalty programs, tailored offers, and personalized experiences.
+
+# Address Seasonal Cancellations (April–June):
+- Introduce special promotions, discounts, or flexible booking policies to reduce cancellation rates during this period.
+
+# Improve City Hotel Retention:
+- With higher cancellation rates, City Hotels should focus on service quality, pricing strategy, and value-driven marketing.
+
+# Targeted Marketing Campaigns:
+- Use digital marketing and personalized promotions to improve booking consistency.
