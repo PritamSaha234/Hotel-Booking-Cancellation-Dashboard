@@ -24,14 +24,14 @@ A renowned hotel group wants to create an annual booking and cancellation report
 ![Screenshot (495)](https://github.com/PritamSaha234/Hotel-Booking-Cancellation-Dashboard/blob/main/Dashboard_2023.png)
 
 ## Project Insight
-- According to all data, the Customer who has a Family has the highest cancellation rate.
-- According to all data Single Customer has the lowest cancellation rate.
+- According to all data, the Customer who are couples has the highest cancellation rate (~ 40%).
+- According to all data, the Single Customer has the lowest cancellation rate (~ 29%).
 - Undesired room doesn't affect much on booking cancellations.
-- 2023 has the highest booking rate.
-- 2024 has the highest cancellation rate.
-- According to all data, August has the highest bookings.
-- According to all data, June has the highest cancellations.
-- According to all data, City Hotels has the highest bookings and highest cancellations.
+- 2023 has the highest booking rate (~ 47%).
+- 2024 has the highest cancellation rate (~ 39%).
+- According to all data, November to March has the lowest cancellation rate.
+- According to all data, April to June has the highest cancellation rate.
+- According to all data, City Hotels has the highest cancellations(~ 42%) compared to Resort Hotels(~ 28%).
   
 
 ## Final Conclusion:
